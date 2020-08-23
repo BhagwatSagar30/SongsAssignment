@@ -161,7 +161,6 @@
 				1E8A3A6F0C587F004AB18694 /* Pods-SongsAssignment-tvOSTests.debug.xcconfig */,
 				E4DE83D537B0AB0E6AD91D8B /* Pods-SongsAssignment-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
